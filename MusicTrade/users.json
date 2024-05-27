@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "username": "svo0",
+        "email": "svo0@mail.com",
+        "password": "pass1",
+        "city": "msk",
+        "phone": "+7 (937) 915 24-12",
+        "signupdate": "2024-05-27",
+        "image": "4354"
+    },
+    {
+        "id": 1,
+        "username": "svo1",
+        "email": "svo1@mail.com",
+        "password": "pass2",
+        "city": "msk",
+        "phone": "+7 (937) 945 25-34",
+        "signupdate": "2024-05-27",
+        "image": "4351"
+    },
+    {
+        "id": 2,
+        "username": "svo2",
+        "email": "svo2@mail.com",
+        "password": "pass3",
+        "city": "msk",
+        "phone": "+7 (937) 915 23-74",
+        "signupdate": "2024-05-27",
+        "image": "4357"
+    },
+    {
+        "id": 3,
+        "username": "svo3",
+        "email": "svo1@mail.com",
+        "password": "pass4",
+        "city": "msk",
+        "phone": "+7 (937) 987 44-15",
+        "signupdate": "2024-05-27",
+        "image": "4355"
+    }
+]

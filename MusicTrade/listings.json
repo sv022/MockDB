@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "ownerId": 7,
+        "title": "Гитара fender",
+        "price": 15000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "Оригинал с фабрики в индонезии. 100% Оригинал.",
+        "adress": "ул. Октябрьская, 16",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["23423", "34545", "56345"]
+    },
+    {
+        "id": 2,
+        "ownerId": 7,
+        "title": "Гитара flight",
+        "price": 7000,
+        "category": "electricGuitar",
+        "isExchangable": false,
+        "description": "Играть невозможно",
+        "adress": "ул. Металлургов, 78",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["34534", "34534", "34535"]
+    },
+    {
+        "id": 2,
+        "ownerId": 7,
+        "title": "Гитара",
+        "price": 5000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "Нашел на чердаке. Вроде работает, но нет нескольких струн.",
+        "adress": "ул. Заводская, 46",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["23423", "34545", "56345"]
+    },
+    {
+        "id": 3,
+        "ownerId": 7,
+        "title": "Педаль JASS",
+        "price": 15000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "Крутая педаль для jass'a",
+        "adress": "ул. Коломенская, 24",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["32534", "68567", "45632"]
+    },
+    {
+        "id": 4,
+        "ownerId": 7,
+        "title": "Гитара Cort",
+        "price": 15000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "trace correct worse nice sport apple bat if exactly examine living result black sweet tight plant modern bag various saved settle swung bear pan",
+        "adress": "ул. Октябрьская, 16",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["45635", "34522", "35634"]
+    },
+    {
+        "id": 5,
+        "ownerId": 7,
+        "title": "Гитара Gibzov",
+        "price": 15000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "rather hole star instance dish waste sport thought above bell basis character stems forth shown famous near gold threw provide circle free tales carbon",
+        "adress": "ул. Октябрьская, 16",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["23423", "34545", "56345"]
+    },
+    {
+        "id": 6,
+        "ownerId": 7,
+        "title": "Гитара Калян",
+        "price": 100000,
+        "category": "electricGuitar",
+        "isExchangable": true,
+        "description": "Тот самый Калян",
+        "adress": "ул. Октябрьская, 16",
+        "tags": "",
+        "publishDate": "2024-05-27",
+        "img": ["34924", "43513", "34675"]
+    }
+]

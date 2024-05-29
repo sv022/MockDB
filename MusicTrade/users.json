@@ -6,8 +6,7 @@
         "password": "pass1",
         "city": "msk",
         "phone": "+7 (937) 915 24-12",
-        "signupdate": "2024-05-27",
-        "image": "4354"
+        "signupdate": "2024-05-27"
     },
     {
         "id": 1,
@@ -16,8 +15,7 @@
         "password": "pass2",
         "city": "msk",
         "phone": "+7 (937) 945 25-34",
-        "signupdate": "2024-05-27",
-        "image": "4351"
+        "signupdate": "2024-05-27"
     },
     {
         "id": 2,
@@ -26,8 +24,7 @@
         "password": "pass3",
         "city": "msk",
         "phone": "+7 (937) 915 23-74",
-        "signupdate": "2024-05-27",
-        "image": "4357"
+        "signupdate": "2024-05-27"
     },
     {
         "id": 3,
@@ -36,7 +33,6 @@
         "password": "pass4",
         "city": "msk",
         "phone": "+7 (937) 987 44-15",
-        "signupdate": "2024-05-27",
-        "image": "4355"
+        "signupdate": "2024-05-27"
     }
 ]

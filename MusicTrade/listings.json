@@ -39,7 +39,7 @@
         "img": ["10003", "10004", "10005"]
     },
     {
-        "id": 3,
+        "id": 4,
         "ownerId": 7,
         "title": "Harley Benton TE-70 2020 Black Paisley",
         "price": 20000,
@@ -52,7 +52,7 @@
         "img": ["10008"]
     },
     {
-        "id": 4,
+        "id": 5,
         "ownerId": 7,
         "title": "Электрогитара kort KX 1 Q",
         "price": 25000,
@@ -65,7 +65,7 @@
         "img": ["10031", "10032", "10033"]
     },
     {
-        "id": 5,
+        "id": 6,
         "ownerId": 7,
         "title": "Epiphone Elitist Les Paul Standard Ebony",
         "price": 140000,
@@ -78,7 +78,7 @@
         "img": ["10006", "10007"]
     },
     {
-        "id": 6,
+        "id": 7,
         "ownerId": 7,
         "title": "Гитара Калян",
         "price": 100000,
@@ -91,7 +91,7 @@
         "img": ["10034", "10035"]
     },
     {
-        "id": 7,
+        "id": 8,
         "ownerId": 7,
         "title": "ESP E-II TE-7",
         "price": 170000,
@@ -104,7 +104,7 @@
         "img": ["10014", "10015", "10016", "10017", "10018"]
     },
     {
-        "id": 8,
+        "id": 9,
         "ownerId": 7,
         "title": "Cort kx507ms sdb fishman matt heafy 7 set обмен",
         "price": 65000,
@@ -117,7 +117,7 @@
         "img": ["10019", "10020"]
     },
     {
-        "id": 9,
+        "id": 10,
         "ownerId": 7,
         "title": "Мультимензурная электрогитара",
         "price": 33000,

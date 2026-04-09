@@ -4,8 +4,8 @@
     "epochs": 10,
     "epochProgress": 12400,
     "epochTotal": 60000,
-    "loss": 0.1,
-    "accuracy": 0.9,
+    "loss": 0.07,
+    "accuracy": 0.83,
     "accuracyHistory": [0.47, 0.62, 0.7, 0.75, 0.78, 0.8, 0.81],
     "lossHistory": [1.2, 0.42, 0.27, 0.19, 0.15, 0.11, 0.09]
 }
